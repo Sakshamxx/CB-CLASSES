@@ -1,4 +1,4 @@
-public class printingnnum {
+public class Patternprinting {
     public static void main(String[] args){
        // int i;
        // Scanner sc= new Scanner(System.in);
