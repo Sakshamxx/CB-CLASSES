@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class saksham {
+public class arrays {
     static void printArr(int[] arr){
         //for each loop
         for(int i:arr)
